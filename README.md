@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jnaneswar077
-- 👀 I’m interested in robotics,projects
-- 🌱 I’m currently learning python,java,ros2
-- 💞️ I’m looking to collaborate on some projects related to robotics
+- 👀 I’m interested in robotics, AI and Deep Learning
+- 🌱 I’m currently learning python,java,ros2 and competitive programming. 
+- 💞️ I’m looking to collaborate on some projects related to robotics and deep learning 
 - 📫 How to reach me 
 Gmail for100ever4@gmail.com
 
