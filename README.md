@@ -2,7 +2,8 @@
 - 👀 I’m interested in robotics,projects
 - 🌱 I’m currently learning python,java,ros2
 - 💞️ I’m looking to collaborate on some projects related to robotics
-- 📫 How to reach me come to home
+- 📫 How to reach me 
+Gmail for100ever4@gmail.com
 
 <!---
 jnaneswar077/jnaneswar077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
